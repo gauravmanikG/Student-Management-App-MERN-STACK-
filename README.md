@@ -88,7 +88,3 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 This project is licensed under the MIT License.
 
-
----
-
-👉 Do you also want me to add a **demo section** (with screenshots & live demo deployment guide, like Vercel + Render/Heroku for backend) so your GitHub repo looks more professional?
